@@ -31,7 +31,7 @@ nesse curso voce vai dominar todo **git** e **github** _do feio ao lindo._
 >Segunda area destacada
 
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ```node
 npm start
@@ -67,3 +67,4 @@ Propriedade | Descrição
 **size** : | Para definir o tamanho do campo
 **background** : | Cor de fundo da area em _HEX_
 **onPress** : | Função chamada quando clicar no botão.
+
