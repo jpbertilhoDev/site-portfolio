@@ -4,8 +4,10 @@
 nesse curso voce vai dominar todo **git** e **github** _do feio ao lindo._
 
 ## Módulos:
-_Entendendo o que é **Git**, aprendendo sobre **repositórios**,
-Trabalhando com **branches**._
+* Começando com GIT.
+* Aprendendo sobre branches.
+* GIT avançado.
+* Usando Github de forma Profissional.
 
 ### Rede social:
 [ Instagram](https://instagram.com/jpbertilhooficial)
