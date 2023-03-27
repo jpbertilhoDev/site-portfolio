@@ -9,6 +9,11 @@ nesse curso voce vai dominar todo **git** e **github** _do feio ao lindo._
 * GIT avançado.
 * Usando Github de forma Profissional.
 
+1. Começando com Git.
+2. Aprendendo sobre branches.
+3. GIT avançado.
+4. Usando Github de forma Profissional.
+
 ### Rede social:
 [ Instagram](https://instagram.com/jpbertilhooficial)
 
