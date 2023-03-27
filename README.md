@@ -23,3 +23,33 @@ nesse curso voce vai dominar todo **git** e **github** _do feio ao lindo._
 >
 >Segunda area destacada
 
+
+**Comando para rodar o projeto**
+
+```node
+npm start
+```
+
+**Exemplo de uso do script**
+```js
+function showName(nome){
+    return 'Bem vindo: '+ nome;
+}
+
+```
+
+**Uso do componente HTML:**
+```html
+<h1>
+    Titulo do Projeto
+    <span>curso Git</span>
+</h1>
+```
+
+**CSS padrão do projeto:**
+```css
+.titulo{
+    background-color: #fff;
+    color: #FF0000;
+}
+```
