@@ -19,5 +19,7 @@ nesse curso voce vai dominar todo **git** e **github** _do feio ao lindo._
 ### Rede social:
 [ Instagram](https://instagram.com/jpbertilhooficial)
 
-[ Youtube ](htpps://youtube.com/c/jpbertilho)
+>Este é um blockqueto, usado para destacar alguma area.
+>
+>Segunda area destacada
 
