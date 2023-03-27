@@ -73,3 +73,4 @@ Propriedade | Descrição
 **background** : | Cor de fundo da area em _HEX_
 **onPress** : | Função chamada quando clicar no botão.
 
+[Voltar para página inicial](#bem-vindo-ao-curso-git-e-github)
